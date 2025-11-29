@@ -17,3 +17,4 @@ user-prefs.json
 minecraftinstance.json
 minecraftinstance.json
 command_history.txt
+local/crash_assistant/*
