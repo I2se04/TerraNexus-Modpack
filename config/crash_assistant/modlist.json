@@ -259,6 +259,10 @@
     "modId": "easy_villagers",
     "version": "1.21.1-1.1.23"
   },
+  "easy_npc-neoforge-1.21.1-5.9.0.jar": {
+    "jarName": "easy_npc-neoforge-1.21.1-5.9.0.jar",
+    "modId": "easy_npc"
+  },
   "elevatorid-neoforge-1.21.1-1.11.4.jar": {
     "jarName": "elevatorid-neoforge-1.21.1-1.11.4.jar",
     "modId": "elevatorid",
@@ -308,6 +312,11 @@
     "jarName": "exdeorum-3.10.jar",
     "modId": "exdeorum",
     "version": "3.10"
+  },
+  "extended-industrialization-1.15.21-1.21.1.jar": {
+    "jarName": "extended-industrialization-1.15.21-1.21.1.jar",
+    "modId": "extended_industrialization",
+    "version": "1.15.21-1.21.1"
   },
   "ExtendedAE-1.21-2.2.25-neoforge.jar": {
     "jarName": "ExtendedAE-1.21-2.2.25-neoforge.jar",
@@ -368,6 +377,11 @@
     "jarName": "forgivingvoid-neoforge-1.21.1-21.1.5.jar",
     "modId": "forgivingvoid",
     "version": "21.1.5"
+  },
+  "FramedBlocks-10.5.1.jar": {
+    "jarName": "FramedBlocks-10.5.1.jar",
+    "modId": "framedblocks",
+    "version": "10.5.1"
   },
   "ftb-chunks-neoforge-2101.1.13.jar": {
     "jarName": "ftb-chunks-neoforge-2101.1.13.jar",
