@@ -1,0 +1,1 @@
+{"jarName":"oritech-neoforge-1.21.1-0.19.5.jar","modId":"oritech","version":"0.19.5","mixinConfigs":["oritech_forge.mixins.json","oritech.mixins.json"],"jarJarMods":[{"jarName":"GrandPower-3.0.2.jar","modId":"grandpower","version":"3.0.2","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

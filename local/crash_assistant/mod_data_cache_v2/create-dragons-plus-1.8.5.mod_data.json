@@ -1,0 +1,1 @@
+{"jarName":"create-dragons-plus-1.8.5.jar","modId":"create_dragons_plus","version":"1.8.5","mixinConfigs":["create_dragons_plus.mixins.json"],"jarJarMods":[{"jarName":"conditional-mixin-neoforge-0.6.4.jar","modId":"conditional_mixin","version":"0.6.4","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

@@ -1,0 +1,1 @@
+{"jarName":"Kiwi-1.21.1-NeoForge-15.7.5.jar","modId":"kiwi","version":"15.7.5+neoforge","mixinConfigs":["kiwi.mixins.json"],"jarJarMods":[{"jarName":"fabric-api-base-0.4.42+d1308ded19.jar","modId":"fabric_api_base","version":"0.4.42+d1308ded19","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

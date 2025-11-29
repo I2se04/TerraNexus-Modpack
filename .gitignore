@@ -3,3 +3,12 @@ logs/*
 downloads/*
 .curseclient
 options.txt
+usercache.json
+usernamecache.json
+crash-reports/*
+emojiful/*
+journeymap/*
+shaderpacks/*
+waypoints/*
+saves/*
+resourcepacks/*

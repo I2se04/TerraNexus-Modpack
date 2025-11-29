@@ -1,0 +1,1 @@
+{"jarName":"Emojiful-Neoforge-1.21-5.2.1-all.jar","modId":"emojiful","version":"5.2.1","mixinConfigs":["emojiful.mixins.json"],"jarJarMods":[{"jarName":"yamlbeans-1.17.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

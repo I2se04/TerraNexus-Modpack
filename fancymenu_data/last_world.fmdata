@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/behag/curseforge/minecraft/Instances/TerraNexus Modpack/saves/New World
+}
+
