@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "choose_difficulty"
+	group: ""
+	id: "1FD67AAACFD942B2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "5ABC6A45514D35A8"
+		tasks: [{
+			id: "206EB21A6CD972CA"
+			type: "checkmark"
+		}]
+		x: -1.0d
+		y: 0.5d
+	}]
+}

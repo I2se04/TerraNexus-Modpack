@@ -1,0 +1,18 @@
+{
+  "id": "ftbteambases:easy_island",
+  "display": {
+    "title": "ftbteambases.base.easy.title",
+    "description": "ftbteambases.base.easy.desc",
+    "icon": "ftbteambases:islands/easy_island",
+    "preview_image": "ftbteambases:textures/islands/easy_island.png"
+  },
+  "construction": {
+    "pregen_template": "easy_island",
+    "structure_sets": [],
+    "include_entities": true
+  },
+  "dimension": {
+    "private": true,
+    "dimension_type": "ftbteambases:easy"
+  }
+}

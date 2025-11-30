@@ -1,1 +1,23 @@
 /sky gui
+/gamemode creative
+/gamerule commandBlockOutput false
+/kill
+/tp 512 ~ 512
+/tp 768 ~ 768
+/clone -3 70 -10 16 65 15
+/clone -3 70 -10 16 65 15 ~ ~ ~
+/kill
+/fill ~ ~ ~ -21 55 7 air
+/fill ~ ~ ~ -63 54 -44 air
+/fill ~ ~ ~ -54 57 -14 air
+/openguiscreen
+/defaultgamemode
+/defaultgamemode adventure
+/defaultoptions saveAll
+/gamemode adventure
+/kubejs reload
+/gamerule sendCommandFeedback false
+/gamemode adventure
+/kubejs stages add @p hard
+/kubejs stages
+/kubejs stages list Isse_04

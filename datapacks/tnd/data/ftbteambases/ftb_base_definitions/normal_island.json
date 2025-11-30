@@ -1,0 +1,18 @@
+{
+  "id": "ftbteambases:normal_island",
+  "display": {
+    "title": "ftbteambases.base.normal.title",
+    "description": "ftbteambases.base.normal.desc",
+    "icon": "ftbteambases:islands/normal_island",
+    "preview_image": "ftbteambases:textures/islands/normal_island.png"
+  },
+  "construction": {
+    "pregen_template": "normal_island",
+    "structure_sets": [],
+    "include_entities": true
+  },
+  "dimension": {
+    "private": true,
+    "dimension_type": "ftbteambases:normal"
+  }
+}

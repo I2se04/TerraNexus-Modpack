@@ -15,6 +15,9 @@ resourcepacks/*
 local/ftbchunks/*
 user-prefs.json
 minecraftinstance.json
-minecraftinstance.json
 command_history.txt
 local/crash_assistant/*
+emi.json
+debug/*
+fancymenu_data/last_world.fmdata
+.mixin.out/*

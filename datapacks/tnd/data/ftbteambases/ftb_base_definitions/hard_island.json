@@ -1,0 +1,18 @@
+{
+  "id": "ftbteambases:hard_island",
+  "display": {
+    "title": "ftbteambases.base.hard.title",
+    "description": "ftbteambases.base.hard.desc",
+    "icon": "ftbteambases:islands/hard_island",
+    "preview_image": "ftbteambases:textures/islands/hard_island.png"
+  },
+  "construction": {
+    "pregen_template": "hard_island",
+    "structure_sets": [],
+    "include_entities": true
+  },
+  "dimension": {
+    "private": true,
+    "dimension_type": "ftbteambases:hard"
+  }
+}
